@@ -1,8 +1,9 @@
 {
   "name": "test-homework",
   "version": "1.0.0",
-  "description": "",
+  "description": "jest homework",
   "main": "index.js",
+  "repository": "https://github.com/UGLIPLASTIK/test-homework",
   "scripts": {
     "test": "jest --coverage",
     "lint": "eslint"
